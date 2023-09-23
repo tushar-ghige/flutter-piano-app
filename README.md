@@ -45,10 +45,7 @@ Now, you're ready to use the Flutter Piano App.
 
 Check out a video demonstration of the Flutter Piano App:
 
-<video controls>
-   <source src="video/PianoDemo.mp4" type="video/mp4">
-   Your browser does not support the video tag.
-</video>
+https://raw.githubusercontent.com/tushar-hubgit/flutter-piano-app/main/video/PianoDemo.mp4
 
 ## Usage
 
