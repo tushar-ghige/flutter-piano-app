@@ -45,7 +45,7 @@ Now, you're ready to use the Flutter Piano App.
 
 Check out a video demonstration of the Flutter Piano App:
 
-https://raw.githubusercontent.com/tushar-hubgit/flutter-piano-app/main/video/PianoDemo.mp4
+https://github.com/tushar-hubgit/flutter-piano-app/assets/112305352/3a8c7f54-6b9b-40b0-bdc3-1120fbb984a7
 
 ## Usage
 
